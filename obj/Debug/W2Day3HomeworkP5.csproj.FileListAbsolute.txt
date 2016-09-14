@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP5\W2Day3HomeworkP5\bin\Debug\W2Day3HomeworkP5.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP5\W2Day3HomeworkP5\bin\Debug\W2Day3HomeworkP5.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP5\W2Day3HomeworkP5\bin\Debug\W2Day3HomeworkP5.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP5\W2Day3HomeworkP5\obj\Debug\W2Day3HomeworkP5.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP5\W2Day3HomeworkP5\obj\Debug\W2Day3HomeworkP5.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\W2Day3HomeworkP5\W2Day3HomeworkP5\obj\Debug\W2Day3HomeworkP5.pdb
